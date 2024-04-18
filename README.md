@@ -13,12 +13,12 @@ Welcome to my GitHub profile! I'm a passionate data scientist. Here's a glimpse 
 Here are some of the projects I've worked on during my internship:
 
 - [Grocery_Inventory](https://github.com/sowmya-p-v/grocery-inventory): A mini project on python programming.
+- 🤖 Working on Machine Learning Project, "Water Potability" using various Classification Algorithms.
+    
 
 
-🤖 Working on Machine Learning Project using various Classification Algorithms.
 
 
-You can find more details about my internship projects on [**my GitHub profile**](link-to-your-github-profile).
 
 ## 💼 Skills
 
