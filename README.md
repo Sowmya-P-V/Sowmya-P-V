@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sowmya P V!
 
-Welcome to my GitHub profile! I'm a passionate data scientist. Here's a glimpse into my background and interests:
+Welcome to my GitHub profile! I'm a passionate data science intern. Here's a glimpse into my background and interests:
 
 ## ℹ️ About Me
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist. Here's a glimpse 
 Here are some of the projects I've worked on during my internship:
 
 - [Grocery_Inventory](https://github.com/sowmya-p-v/grocery-inventory): A mini project on python programming.
-- 🤖 Working on Machine Learning Project, "Water Potability" using various Classification Algorithms.
+- 🤖 Working on Machine Learning Projects
     
 
 
@@ -24,7 +24,7 @@ Here are some of the projects I've worked on during my internship:
 
 Some of my key skills include:
 
-- **Programming Languages:** Python, SQL.
+- **Programming Languages:** Python.
 - **Data Analysis:** Pandas, NumPy, Scikit-learn.
 - **Machine Learning:** KNN, Naive-Bayes, SVM.
 - **Data Visualization:** Matplotlib, Seaborn.
