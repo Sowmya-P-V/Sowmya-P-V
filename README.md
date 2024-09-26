@@ -14,7 +14,8 @@ Here are some of the projects I've worked on during my internship:
 
 - [Grocery_Inventory](https://github.com/sowmya-p-v/grocery-inventory): A mini project on python programming.
 - [Heart_Disease_Prediction](https://github.com/sowmya-p-v/Heart_Disease_Prediction): Heart disease prediction using different classification algorithms.
-- [InvestiWise](https://github.com/sowmya-p-v/InvestiWise): Investment risk prediction with finanacial metrics,ESG score and news insight.  
+- [InvestiWise](https://github.com/sowmya-p-v/InvestiWise): Investment risk prediction with finanacial metrics,ESG score and news insight.
+- [Green Space Suggestion for unplanned urbanization](https://github.com/sowmya-p-v/Green_space_suggestion): Enhancing Urban Greenery using U-Net architecture with a VGG16 encoder. 
     
 
 
